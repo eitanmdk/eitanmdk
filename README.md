@@ -1,35 +1,9 @@
-### im eitan... and im really dumb
+#Eitan
+## im eitan... and im really dumb
 
+## Big proyects
+(galacticgdps🔮)[http://galacticgdps.ml]
+(member: GDPS Editor🎩)[http://discord.gg/gdps]
+(MDK BOT)[https://github.com/eitanmdk/bot_mdk]
 
-
-yes not joking
-
-
-
-
-what you doin here
-
-
-
-
-
-
-wtf stop scrolling
-
-
-1
-
-
-
-
-
-2
-
-
-
-
-3
-
-
-
-bye
+### and thats all
