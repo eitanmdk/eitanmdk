@@ -6,7 +6,7 @@
 
 <hr>
 
-# Some things that I am good
+## Some things that I am good
 - Javascript
 - Java
 - C++
