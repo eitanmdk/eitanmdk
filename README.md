@@ -1,8 +1,21 @@
+<style>
+.eitan{
+  animation-name: eitann;
+  animation-duration: 5s;
+}
+@keyframes eitann{
+  50%{
+  opacity: 50%;
+  }
+  100%{
+  opacity: 100%;
+  }
+}
+</style>
 
-# Eitan
-
+<div class="eitan"><h1>Eitan</h1></div>
 ## About Me
-### im eitan... and I develop some things
+im eitan... and I develop some things
 
 <hr>
 
