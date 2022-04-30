@@ -3,8 +3,7 @@
 ### im eitan... and im really dumb
 
 ## Big proyects
-[galacticgdps🔮](http://galacticgdps.ml)
-[member: GDPS Editor🎩](http://discord.gg/gdps)
-[MDK BOT](https://github.com/eitanmdk/bot_mdk)
+[Random Dash🔮](http://galacticgdps.ml)<br>
+[Developer: GDPS Editor🎩](http://discord.gg/gdps)<br>
 
 ### and thats all
