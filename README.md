@@ -20,7 +20,7 @@
 <hr>
 
 <details>
-<summary>Projects</summary>
+<summary><h2>Proyects</h2></summary>
   
 <p align="center"><a href="https://github.com/eitanmdk/nitro-sniper"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=eitanmdk&repo=nitro-sniper&theme=dark" />
 <p align="center"><a href="https://github.com/eitanmdk/Random-Dash-Demonlist"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=eitanmdk&repo=Random-Dash-Demonlist&theme=dark" /> 
