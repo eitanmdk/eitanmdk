@@ -1,7 +1,7 @@
 
 # Eitan
 
-##About Me
+## About Me
 ### im eitan... and I develop some things
 
 <hr>
