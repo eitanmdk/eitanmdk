@@ -1,6 +1,17 @@
 
 # Eitan
-### im eitan... and im really dumb
+### im eitan... and I develop some things
+
+# Some things that I am good
+- Javascript
+- Java
+- C++
+- C
+- Python (little bit)
+- Smali
+- Xml
+- CSS
+- HTML
 
 ## Big proyects
 [Random Dash🔮](http://galacticgdps.ml)<br>
