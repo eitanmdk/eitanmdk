@@ -22,9 +22,9 @@
 <details>
 <summary>Projects</summary>
   
-<p align="center"><a href="https://github.com/eitanmdk/nitro-sniper"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=eitanmdk&repo=nitro-sniper" />
-<p align="center"><a href="https://github.com/eitanmdk/Random-Dash-Demonlist"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=eitanmdk&repo=Random-Dash-Demonlist" /> 
-<p align="center"><a href="https://github.com/eitanmdk/GDPS-Editor"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=eitanmdk&repo=GDPS-Editor" /> 
+<p align="center"><a href="https://github.com/eitanmdk/nitro-sniper"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=eitanmdk&repo=nitro-sniper&theme=radical" />
+<p align="center"><a href="https://github.com/eitanmdk/Random-Dash-Demonlist"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=eitanmdk&repo=Random-Dash-Demonlist&theme=radical" /> 
+<p align="center"><a href="https://github.com/eitanmdk/GDPS-Editor"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=eitanmdk&repo=GDPS-Editor&theme=radical" /> 
 
 
 </details>
